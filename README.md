@@ -8,13 +8,30 @@
 * [Semantic HTML](https://www.pluralsight.com/guides/semantic-html) - pluralsight.com
 
 
-### Learning
+## Learning
 * [W3Cx](https://w3cx.org/) - w3cx.org
 * [Semantics and structure with HTML](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html) - mozilla.org
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - frontendmasters.com
 
+## HTML Editors
+### Applications
+* [Notepad++](https://notepad-plus-plus.org/)
+* [Sublime](https://www.sublimetext.com/)
+* [Visual Studio Code](https://code.visualstudio.com/) 🌟
+    * [HTML in Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
+    * [CSS, SCSS and Less](https://code.visualstudio.com/docs/languages/css)
+    * [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
+    * [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
+         * [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
+* [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 
-### Refernces
+### Online Editors
+* [VSCode](https://vscode.dev/) 🌟 - vscode.dev
+* [CodePen](https://codepen.io/trending) - CodePen 'codepen.io' is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
+   * [Learn to use CodePen from a co-founder of CodePen :tv:](https://www.youtube.com/watch?v=vb9uYBtqmeM) - Chris Coyier
+* [Glitch](https://glitch.com/) 
+
+## Refernces
 * [HTML Reference](https://htmlreference.io/) - htmlreference.io
 * [HTML Element Reference (w3schools)](https://www.w3schools.com/TAGS/default.ASP) - w3schools.com
 * [HTML elements reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - mozilla.org
@@ -23,7 +40,7 @@
 
 
 
-### Quiz
+## Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com :star:
 * GeeksforGeeks
     * [Practice Quiz 1](https://www.geeksforgeeks.org/html-course-practice-quiz-1/) - geeksforgeeks.org
