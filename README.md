@@ -9,9 +9,11 @@
 
 
 ## Learning
+* [SoloLearn | HTML](https://www.sololearn.com/learn/courses/le-html) - sololearn.com
 * [W3Cx](https://w3cx.org/) - w3cx.org
 * [Semantics and structure with HTML](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html) - mozilla.org
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - frontendmasters.com
+
 
 ## HTML Editors
 ### Applications
