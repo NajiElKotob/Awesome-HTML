@@ -29,7 +29,10 @@
 * [VSCode](https://vscode.dev/) 🌟 - vscode.dev
 * [CodePen](https://codepen.io/trending) - CodePen 'codepen.io' is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
    * [Learn to use CodePen from a co-founder of CodePen :tv:](https://www.youtube.com/watch?v=vb9uYBtqmeM) - Chris Coyier
-* [Glitch](https://glitch.com/) 
+* [Glitch](https://glitch.com/)
+
+## Deployment
+* [Getting Started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) - github.com
 
 ## Refernces
 * [HTML Reference](https://htmlreference.io/) - htmlreference.io
