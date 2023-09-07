@@ -9,8 +9,9 @@
 
 
 ## Learning
-* [SoloLearn | Learn HTML](https://www.sololearn.com/learn/courses/le-html) - sololearn.com
+* [SoloLearn | Learn HTML](https://www.sololearn.com/learn/courses/le-html) ⭐ - sololearn.com
 * [W3Schools | Learn HTML](https://www.w3schools.com/html/) - w3schools.com
+* [web.dev | Learn HTML](https://web.dev/learn/html/) - web.dev
 * [W3Cx](https://w3cx.org/) - w3cx.org
 * [Semantics and structure with HTML](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html) - mozilla.org
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - frontendmasters.com
