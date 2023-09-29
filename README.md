@@ -15,6 +15,7 @@
 * [W3Cx](https://w3cx.org/) - w3cx.org
 * [Semantics and structure with HTML](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html) - mozilla.org
 * [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) - frontendmasters.com
+* [Edx - HTML5](https://www.edx.org/learn/html5) - edx.org | Learn HTML5 with online courses and programs
 
 ## Tools
 * [HTML 5 Test](https://html5test.com/) - html5test.com | how well does your browser support html5?
