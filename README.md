@@ -18,6 +18,7 @@
 
 ## Tools
 * [HTML 5 Test](https://html5test.com/) - html5test.com | how well does your browser support html5?
+* [Can I Use](https://caniuse.com/) - caniuse.com | Provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 ## HTML Editors
 ### Applications
