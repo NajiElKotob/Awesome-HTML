@@ -49,7 +49,8 @@
 * [DevDocs](https://devdocs.io/html/) - devdocs.io
 * [W3C cheatsheet](https://www.w3.org/2009/cheatsheet/) - w3.org
 
-
+## Cheat SHeets
+* [Cheat SHeet for Color Names in HTML](https://github.com/swapnakpanda/Infographics/blob/main/Cheat%20Sheet/HTML/ColorNames_v1.png)
 
 ## Quiz
 * [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp) - w3schools.com :star:
