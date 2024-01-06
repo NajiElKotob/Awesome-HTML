@@ -23,14 +23,15 @@
 
 ## HTML Editors
 ### Applications
-* [Notepad++](https://notepad-plus-plus.org/)
-* [Sublime](https://www.sublimetext.com/)
 * [Visual Studio Code](https://code.visualstudio.com/) 🌟
     * [HTML in Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
     * [CSS, SCSS and Less](https://code.visualstudio.com/docs/languages/css)
     * [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
-    * [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
-         * [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
+    * Extensions
+      - [Live Server (Extension)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static and dynamic pages
+        - [Automatically Reload Your Site on Save](https://www.youtube.com/watch?v=WzE0yqwbdgU) 
+* [Notepad++](https://notepad-plus-plus.org/) - notepad-plus-plus.org
+* [Sublime](https://www.sublimetext.com/) - sublimetext.com
 * [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design.
 
 ### Online Editors
