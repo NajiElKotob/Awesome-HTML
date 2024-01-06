@@ -43,7 +43,7 @@
 * [Getting Started with GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) - github.com
 
 ## Refernces
-* [HTML Reference](https://htmlreference.io/) - htmlreference.io
+* [HTML Reference](https://htmlreference.io/) - ⭐ htmlreference.io
 * [HTML Element Reference (w3schools)](https://www.w3schools.com/TAGS/default.ASP) - w3schools.com
 * [HTML elements reference (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - mozilla.org
 * [DevDocs](https://devdocs.io/html/) - devdocs.io
